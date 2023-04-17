@@ -26,3 +26,6 @@ print(names)
 names.sort()
 print(names)
 
+name1=[1,2]
+names.extend(name1)
+print(names)
